@@ -1,0 +1,4 @@
+youtube_dl
+pysqlite3
+google-api-python-client
+python-dateutil

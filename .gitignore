@@ -1,0 +1,8 @@
+config_default.yaml
+ytDatabase.db
+channel_list.txt
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.vscode
+youtubeDb.db
